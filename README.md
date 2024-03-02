@@ -32,17 +32,17 @@ Before running the application, make sure you have the following installed:
 2. Install dependencies:
 
   ```bash
-  npm install
+   npm install
 
 3. Start JSON Server to simulate the backend:
 
   ```bash
-  json-server --watch db.json --port 3001
+   json-server --watch db.json --port 3001
 
 4. Start the React application:
 
   ```bash
-  npm start
+   npm start
 
 5. Open your browser and navigate to http://localhost:3000 to access the Electronic Products E-Commerce Website.
 
