@@ -23,6 +23,7 @@ Before running the application, make sure you have the following installed:
    ```bash
    git clone https://github.com/rehanchoudhari/Electronics-web-react.git
 
+## Follow Below
 
 1. Change into the project directory:
 
