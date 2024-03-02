@@ -25,27 +25,27 @@ Before running the application, make sure you have the following installed:
 
 ## Follow Below
 
-1. Change into the project directory:
+- Change into the project directory:
 
   ```bash
    cd electronic-products-ecommerce
 
-2. Install dependencies:
+- Install dependencies:
 
   ```bash
    npm install
 
-3. Start JSON Server to simulate the backend:
+- Start JSON Server to simulate the backend:
 
   ```bash
    json-server --watch db.json --port 3001
 
-4. Start the React application:
+- Start the React application:
 
   ```bash
    npm start
 
-5. Open your browser and navigate to http://localhost:3000 to access the Electronic Products E-Commerce Website.
+- Open your browser and navigate to http://localhost:3000 to access the Electronic Products E-Commerce Website.
 
 ![image](https://github.com/rehanchoudhari/Electronics-web-react/assets/74309338/33713145-3388-4a0e-8c1a-96055c860057)
 
